@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../corlib"
+		},
+		{
+			"path": "../gtk_estate"
+		},
+		{
+			"path": "../string_escaper_unescaper"
+		},
+		{
+			"path": "../act_rusty"
+		}
+	],
+	"settings": {
+		"rust-analyzer.showUnlinkedFileNotification": false
+	}
+}
